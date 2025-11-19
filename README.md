@@ -1,7 +1,8 @@
 # Medical-Chatbot-Project
 
 **Author:** Nigar Sultana  
-**Email:** sultana.amin940@gmail.com
+**Email:** sultana.amin940@gmail.com  
+**Project Presentation:** [View Slides](https://docs.google.com/presentation/d/1bBuPMjJeXtXyHyIMK6eBO9LrF12DbjpVrcaH__pvq2M/edit?slide=id.p#slide=id.p)
 
 ## Architecture Overview
 
